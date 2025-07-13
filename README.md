@@ -1,6 +1,6 @@
-### BloxSkid
+## BloxSkid
 
-* What is this?
+### What is this?
 BloxSkid is a prebuilt BloxStrap source that comes with everything you need to make your own BloxStrap.
-* Where to download
+### Where to download
 Releases.
